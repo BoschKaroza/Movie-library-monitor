@@ -1,0 +1,14 @@
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\bin\Debug\net8.0\MovieLibraryMonitor.exe
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\bin\Debug\net8.0\MovieLibraryMonitor.deps.json
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\bin\Debug\net8.0\MovieLibraryMonitor.runtimeconfig.json
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\bin\Debug\net8.0\MovieLibraryMonitor.dll
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\bin\Debug\net8.0\MovieLibraryMonitor.pdb
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.AssemblyInfoInputs.cache
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.AssemblyInfo.cs
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.csproj.CoreCompileInputs.cache
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.dll
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\refint\MovieLibraryMonitor.dll
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.pdb
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\MovieLibraryMonitor.genruntimeconfig.cache
+D:\dev\MovieLibraryMonitor\MovieLibraryMonitor\obj\Debug\net8.0\ref\MovieLibraryMonitor.dll
